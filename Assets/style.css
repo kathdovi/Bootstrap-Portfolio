@@ -1,0 +1,20 @@
+body {
+    /* The image used */
+    background-image: url("../Assets/images/cloudy-day.png");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.top-buffer { 
+    margin-top:20px; 
+}
